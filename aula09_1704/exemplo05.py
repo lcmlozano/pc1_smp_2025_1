@@ -1,8 +1,7 @@
 '''
 Vamos criar um programa em Python que solicite ao usuário o nome de 
 5 pessoas, armazene em uma lista e exiba os nomes digitados e o 
-tamanho da lista. 
-Em seguida o programa deve solicitar ao usuário um nome, 
+tamanho da lista.  Em seguida o programa deve solicitar ao usuário um nome, 
 e o programa deverá remover o nome armazenado na lista, 
 exibir os nomes digitados e o tamanho da lista.
 '''
